@@ -1,17 +1,12 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "how-to-implement": "6a8dfd91ab39a61be95658575a0f4595",
     "info": {
         "url_png_icon_64x64": "https://i.ibb.co/bz86Xcy/fell-64.pngb",
         "url_png_logo": "https://i.ibb.co/tJNQkQn/logo.png",
         "location": "Portugal",
         "social": {
             "twitter_handle": "FeelStakepool",
-            "telegram_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
+            "telegram_handle": ""
         }
         "about": {
             "me": "",
